@@ -1,4 +1,4 @@
-FEATURE ENGINEERING REPORT
+FEATURE ENGINEERING
 
 1.	Introduction
 In the dynamic landscape of predictive analytics, feature engineering stands as a cornerstone process, bridging the gap between raw data and meaningful insights. This report delves into the intricate journey of feature engineering, a pivotal phase in our data analysis endeavors. The dataset under scrutiny, aptly titled 'snail_size.xlsx', harbors a plethora of information pertaining to snail sizes. Our objective is to transform this raw data into a format that is not only machine-understandable but also conducive to extracting profound insights. Through meticulous feature engineering, we are laying the foundation for sophisticated machine learning algorithms, setting the stage for predictive modeling and illuminating hidden patterns within the data.
