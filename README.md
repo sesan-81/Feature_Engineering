@@ -154,3 +154,6 @@ The comprehensive analysis of the PakWheels dataset provides invaluable insights
 ○	Geographic Expansion: Explore regions with high registered car listings for potential market expansion opportunities.
 
 
+NOTE: Due to data and materials inconsistencies, I could not proceed with the Julius Berger Employees’ flight risk project as proposed in assignment 4. Dataset for this project was provided by PakWheels which encapsulates a wealth of information regarding the used car market.
+
+
